@@ -185,3 +185,12 @@ li a:hover {
     color: #fff;
     transform: rotate(90deg);
 }
+
+@media screen and (max-width: 360px){
+    .card-column{
+        width: 100%;
+        display: block;
+        margin-bottom:20px ;
+    }
+}
+
